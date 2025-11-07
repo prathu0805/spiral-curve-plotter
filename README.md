@@ -156,7 +156,7 @@ jupyter notebook
 📁 parametric-curve-fitting
 │
 ├── xy_data.csv                  # Input dataset
-├── spiral_curve_plotter.ipynb    # Main script
+├── spiral_curve_plotter.ipynb   # Main script
 ├── fit_results.txt              # Optimization results
 ├── parametric_fit_result.png    # Output visualization
 └── README.md                    # Documentation
@@ -179,6 +179,7 @@ In case of any queries, please leave a message or contact me via the email provi
 <p align="center">
 ⭐ <strong>Star this repository if you found it helpful!</strong>
 </p>
+
 
 
 
