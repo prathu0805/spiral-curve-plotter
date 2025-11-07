@@ -110,8 +110,8 @@ Explore the optimized trajectory interactively on Desmos:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/parametric-curve-fitting.git
-cd parametric-curve-fitting
+git clone https://github.com/prathu0805/spiral-curve-plotter.git
+cd piral-curve-plotter
 ```
 ### 2. Set Up Environment
 ```bash
@@ -179,6 +179,7 @@ In case of any queries, please leave a message or contact me via the email provi
 <p align="center">
 ⭐ <strong>Star this repository if you found it helpful!</strong>
 </p>
+
 
 
 
