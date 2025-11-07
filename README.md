@@ -29,6 +29,7 @@ The project combines **numerical optimization**, **parametric modeling**, and **
 Given a dataset `xy_data.csv` containing `x` and `y` coordinates, the objective is to find the optimal values for three unknown parameters: `theta`, `M`, and `X`. These parameters define a parametric curve using the following equations:
 
 **x(t) = t * cos(theta) - exp(M * |t|) * sin(0.3 * t) * sin(theta) + X**
+
 **y(t) = 42 + t * sin(theta) + exp(M * |t|) * sin(0.3 * t) * cos(theta)**
 
 
@@ -178,5 +179,6 @@ In case of any queries, please leave a message or contact me via the email provi
 <p align="center">
 ⭐ <strong>Star this repository if you found it helpful!</strong>
 </p>
+
 
 
