@@ -117,8 +117,11 @@ cd spiral-curve-plotter
 ```bash
 pip install numpy pandas scipy matplotlib
 ```
-
-### 3. Run the Notebook
+### 3. Open the project in VS Code:
+```bash
+code .
+```
+### 4. Run the Notebook
 Open the Jupyter Notebook and run all the cells in order
 ```bash
 jupyter notebook
@@ -179,6 +182,7 @@ In case of any queries, please leave a message or contact me via the email provi
 <p align="center">
 ⭐ <strong>Star this repository if you found it helpful!</strong>
 </p>
+
 
 
 
