@@ -1,0 +1,4 @@
+Optimal Theta: 27.9990 degrees
+Optimal M: 0.021054
+Optimal X: 54.2703
+Minimum L1 Error: 37873.4825
