@@ -113,13 +113,13 @@ Explore the optimized trajectory interactively on Desmos:
 git clone https://github.com/prathu0805/spiral-curve-plotter.git
 cd spiral-curve-plotter
 ```
-### 2. Set Up Environment
-```bash
-pip install numpy pandas scipy matplotlib
-```
-### 3. Open the project in VS Code:
+### 2. Open the project in VS Code:
 ```bash
 code .
+```
+### 3. Set Up Environment
+```bash
+pip install numpy pandas scipy matplotlib
 ```
 ### 4. Run the Notebook
 Open the Jupyter Notebook and run all the cells in order
@@ -182,6 +182,7 @@ In case of any queries, please leave a message or contact me via the email provi
 <p align="center">
 ⭐ <strong>Star this repository if you found it helpful!</strong>
 </p>
+
 
 
 
