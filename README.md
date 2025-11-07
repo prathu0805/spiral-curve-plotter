@@ -94,7 +94,8 @@ A smooth fitted curve is generated and compared to observed data:
 - **🔴 Red Points:** Observed Data  
 - **🔵 Blue Curve:** Fitted Model  
 
-Output visualization  
+Output visualization :
+
 ![Parametric Fit Result](parametric_fit_result.png)
 
 ### 🎯 Interactive Visualization  
@@ -178,6 +179,7 @@ In case of any queries, please leave a message or contact me via the email provi
 <p align="center">
 ⭐ <strong>Star this repository if you found it helpful!</strong>
 </p>
+
 
 
 
