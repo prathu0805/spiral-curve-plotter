@@ -3,7 +3,6 @@
 <p align="center">
   <i>AI Research & Development Assignment</i><br>
   <b>Author:</b> Prathikha<br>
-
 </p>
 
 <p align="center">
@@ -179,6 +178,7 @@ In case of any queries, please leave a message or contact me via the email provi
 <p align="center">
 ⭐ <strong>Star this repository if you found it helpful!</strong>
 </p>
+
 
 
 
